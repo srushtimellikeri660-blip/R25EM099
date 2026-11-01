@@ -1,1 +1,1 @@
-# R25EM099
+   Hi, I'm Srushti, a student studying B.tech at Reva. This repository is my practice space for the GitHub-Integrated Portfolio Building course.
